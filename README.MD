@@ -2,7 +2,7 @@
 
 ## What did I learn by practicing?
 
-As someone who has already used Git and GitHub, diving deeper into the documentation was a great experience; it revealed that there is so much more to the platform than just `git clone`, `git checkout`, `git pull`, and `git push` (the basics we all use). Git is a comprehensive tool that is easy for developers to grasp. Furthermore, I feel we often fail to fully utilize the potential of GitHub, a platform that has steadily grown over the years to become the most popular among developers. Exploring it in depth gave me a new appreciation for just how good it is—from its easy repository management and automation capabilities (CI/CD) to its power to bring communities together and its ability to integrate tools such as Codex for Pull Request reviews.
+As someone who has already used Git and GitHub, diving deeper into the documentation was a great experience. It revealed that there is so much more to the platform than just `git clone`, `git checkout`, `git pull`, and `git push` (the basics we all use). Git is a comprehensive tool that is easy for developers to grasp. Furthermore, I feel we often fail to fully utilize the potential of GitHub, a platform that has steadily grown over the years to become the most popular among developers. Exploring it in depth gave me a new appreciation for just how good it is, from its easy repository management and automation capabilities (CI/CD) to its power to bring communities together and its ability to integrate tools such as Codex for Pull Request reviews.
 
 ## Some commands I learned:
 
